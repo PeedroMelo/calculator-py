@@ -1,7 +1,5 @@
 import unittest
-
-def calculate(a, b):
-  return a * b
+from functions import calculate
 
 class SimpleTest(unittest.TestCase):
   
