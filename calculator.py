@@ -1,5 +1,4 @@
-def calculate(a, b):
-  return a * b
+from functions import calculate
 
 a = input('Valor A: ')
 b = input('Valor B: ')
